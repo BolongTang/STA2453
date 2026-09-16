@@ -1,6 +1,6 @@
 ---
-title: "Healy: Data Visualization"
-author: "STA4101 students, 2025"
+title: "Edited"
+author: "Coco"
 date: "2026-09-16"
 date-format: "D MMMM, YYYY"
 bibliography: references.bib
@@ -16,10 +16,15 @@ format:
 - When choosing colour scheme, we want to choose colours on a scale that is perceptually uniform
 - Use shape and colours 
 
+Good Answers
+
 ## Section 1.4
 - Three axes plots are harder to interpret compared to two axes
 - Alignment of elements makes comparison easier
 
+Good
+
 ## Section 1.5
 - For ordered variables, choice of sequence of colours is important
 
+Good
