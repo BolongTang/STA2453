@@ -1,6 +1,6 @@
 ---
 title: "Hello Prof.!!!"
-author: "STA4101 students, 2025"
+author: "Peize Zhang, Bolong Tang"
 date: "2026-09-16"
 date-format: "D MMMM, YYYY"
 bibliography: references.bib
