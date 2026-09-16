@@ -23,7 +23,7 @@ So the normal cadence of class is three weeks of learning and then in the fourth
 
 ### Notes
 
-- Your mark for each Part is the average of your assignment mark and your exam mark. For instance, if for Part 1 you got 95% on the assignment and 50% on the exam then you would get 15/30.
+- Your mark for each Part is the average of your assignment mark and your exam mark. For instance, if for Part 1 you got 95% on the assignment and 50% on the exam then you would get 72.5%, which is 21.75/30.
 - One section of the in-class exam is about your assignment. You should expect a mix of MCQ, short answer, and essay questions.
 - The final exam is optional but can be used to replace one Part. If your final exam mark is higher than your lowest Part mark, it takes that Part's 30 per cent. Otherwise it does not count. Think of it as a back-up in case something happens during the semester.
 - Due dates:
