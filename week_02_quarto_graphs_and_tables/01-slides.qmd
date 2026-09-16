@@ -21,7 +21,7 @@ format:
 - Pull requests, reviews, and conflicts.
 
 ::: {.notes}
-- Two hours of doing, one hour of Annie.
+- Two hours of doing, 30 min of Annie; 30 min Q&A.
 - The demonstration file is `02-demo.qmd`; the website is `website_example/`.
 :::
 

@@ -328,12 +328,11 @@ Rohan Alexander
 <span id="cb4-3"><a href=""></a>  <span class="fu">format_tt</span>(<span class="at">j =</span> <span class="st">"Occupancy"</span>, <span class="at">fn =</span> scales<span class="sc">::</span><span class="fu">label_percent</span>(<span class="fl">0.1</span>)) <span class="sc">|&gt;</span></span>
 <span id="cb4-4"><a href=""></a>  <span class="fu">format_tt</span>(<span class="at">escape =</span> <span class="cn">TRUE</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
-<li>A data frame in, a table out, in PDF, HTML, and Word alike</li>
-<li>Caption and cross-reference come from the chunk options <code>label: tbl-...</code> and <code>tbl-cap</code></li>
+<li>Caption and cross-reference come from the chunk options <code>label: tbl-...</code> and <code>tbl-cap</code>.</li>
 </ul>
 </section>
-<section id="a-website-is-a-folder" class="slide level2">
-<h2>A website is a folder</h2>
+<section id="a-website-is-just-a-type-of-doc" class="slide level2">
+<h2>A website is just a type of doc</h2>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource yaml number-lines code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><a href=""></a><span class="fu">project</span><span class="kw">:</span></span>
 <span id="cb5-2"><a href=""></a><span class="at">  </span><span class="fu">type</span><span class="kw">:</span><span class="at"> website</span></span>
 <span id="cb5-3"><a href=""></a><span class="at">  </span><span class="fu">output-dir</span><span class="kw">:</span><span class="at"> docs</span></span>
@@ -344,9 +343,9 @@ Rohan Alexander
 <span id="cb5-8"><a href=""></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">href</span><span class="kw">:</span><span class="at"> index.qmd</span></span>
 <span id="cb5-9"><a href=""></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">href</span><span class="kw">:</span><span class="at"> shelter.qmd</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <ul>
-<li><code>quarto render</code> builds every page into <code>docs/</code></li>
-<li>GitHub, Settings, Pages, deploy from <code>main</code>, folder <code>/docs</code></li>
-<li><code>output-dir: docs</code> is the line everyone forgets</li>
+<li><code>quarto render</code> builds every page into <code>docs/</code>.</li>
+<li>GitHub, Settings, Pages, deploy from <code>main</code>, folder <code>/docs</code>.</li>
+<li><code>output-dir: docs</code> makes it easier to deploy from GitHub Pages.</li>
 </ul>
 </section>
 <section id="pull-requests" class="slide level2">
