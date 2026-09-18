@@ -93,7 +93,7 @@ So the normal cadence of class is three weeks of learning and then in the fourth
     - Mensh, Brett, and Konrad Kording, 2017, "Ten simple rules for structuring papers", *PLOS Computational Biology*, [10.1371/journal.pcbi.1005619](https://doi.org/10.1371/journal.pcbi.1005619).
     - *ISLR/P*, Chapter 2.1 "What is Statistical Learning?"
 - Class (Wednesday 23 September)
-    - (Quiz) Week 2 readings and class.
+    - (Quiz) Weeks 1 and 2 readings and class, what the Donaldson paper expects, and *ISLR/P* Chapter 2.1.
     - (ISLR/P) Bolong Tang, Peize Zhang, Yi zhi Zhang.
     - (Lecture) Features of good writing by section: title, abstract, introduction, data, model, results, discussion.
     - (Worksheet) Draft a paper from three sets of results and then edit three drafts.
@@ -136,7 +136,7 @@ So the normal cadence of class is three weeks of learning and then in the fourth
     - Kay, Matthew, et al, 2016, "When (ish) is My Bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems", *CHI 2016*, [10.1145/2858036.2858558](https://doi.org/10.1145/2858036.2858558).
     - *ISLR/P*, Chapter 4.3 "Logistic Regression"
 - Class (Wednesday 14 October)
-    - (Quiz) Week 5 readings and class.
+    - (Quiz) Week 5 readings and class, and *ISLR/P* Chapters 3.1 and 3.2.
     - (ISLR/P) Josh Campbell, Graham Sayle, Kyle Dong, and Gerry Peng.
     - (Lecture) What a forecast is a forecast of; bias and variance in polls; why 70 per cent is not "will win"
     - (Demonstration) Pull the polls; build the frame; fit; poststratify; win probability with an interval; score a set of 2022 forecasts against the 2022 results with Brier and log score
@@ -152,7 +152,7 @@ So the normal cadence of class is three weeks of learning and then in the fourth
     - Lewis, Crystal, 2024, Data Management in Large-Scale Education Research, Chapters 3, 4, 5, and 9, https://datamgmtinedresearch.com.
     - *ISLR/P*, Chapter 5.1 "Cross-Validation"
 - Class (Wednesday 21 October)
-    - (Quiz) Week 6 readings and class.
+    - (Quiz) Week 6 readings and class, and *ISLR/P* Chapters 4.3 and 5.1.
     - (ISLR/P) Danika Anoutchina, Maggie Huang, Shrey Sati, Daniel Gutkin.
     - (Demonstration) Put the Week 6 pipeline in a container and run it; marginal effects from the vote model; a data dictionary and folder layout for the project repo
     - (Worksheet) Team time
@@ -197,7 +197,7 @@ So the normal cadence of class is three weeks of learning and then in the fourth
     - Kapoor, Sayash, and Arvind Narayanan, 2023, "Leakage and the Reproducibility Crisis in Machine-Learning-Based Science", *Patterns*, [10.1016/j.patter.2023.100804](https://www.sciencedirect.com/science/article/pii/S2666389923001599).
     - *ISLR/P*, Chapter 8.1.
 - Class (Wednesday 18 November)
-    - (Quiz) Week 9 readings and class.
+    - (Quiz) Week 9 readings and class, and *ISLR/P* Chapters 6.2 and 8.1.
     - (ISLR/P) Group 6.
     - (Lecture) Variance in evals: items, sampling, prompts, judges; contamination; what a two-point difference on a leaderboard means with 200 items
     - (Demonstration) Calibrate a model-as-judge using the Week 3 referee reports as the human labels; watch the ranking move when the judge changes
